@@ -17,7 +17,9 @@ function App() {
     <Router>
       <Navbar />
       <SignUp/>
-      <Routes> <Route path='/' exact components ={Home} />
+      <Routes>
+
+    <Route path='/' exact components ={Home} />
         <Route path='/services' components ={Services} />
         <Route path='/products' components ={Products} />
         <Route path='/contact-us' components ={ContactUs} />
