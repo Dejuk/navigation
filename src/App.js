@@ -10,8 +10,6 @@ import ContactUs from './components/Pages/ContactUs';
 import SignUp from './components/Pages/SignUp';
 import Marketing from './components/Pages/Marketing';
 import Consulting from './components/Pages/Consulting';
-
-
 function App() {
   return (
     <Router>
