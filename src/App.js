@@ -13,8 +13,6 @@ import Consulting from './components/Pages/Consulting';
 function App() {
   return (
     <Router>
-   
-
       <Navbar />
       <SignUp/>
       <Routes>  
