@@ -14,7 +14,6 @@ function App() {
   return (
     <Router>
       <Navbar />
-    
       <SignUp/>
       <Routes>  
     <Route path='/' exact components ={Home} />
