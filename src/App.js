@@ -15,7 +15,6 @@ function App() {
       <Navbar />
       <SignUp/>
       <Routes> 
-
     <Route path='/' exact components ={Home} />
         <Route path='/services' components ={Services} />
         <Route path='/products' components ={Products} />
