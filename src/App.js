@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>   
       <Navbar />
-      <SignUp/>
+      <SignUp />
       <Routes> 
     <Route path='/' exact components ={Home} />
         <Route path='/services' components ={Services} />
